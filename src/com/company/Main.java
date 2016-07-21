@@ -5,6 +5,6 @@ public class Main {
     public static void main(String[] args) {
         //begin ok
         System.out.print("abc");
-        //add update delete
+        //add update delete select
     }
 }
