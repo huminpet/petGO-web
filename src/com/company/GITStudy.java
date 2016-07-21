@@ -5,6 +5,6 @@ package com.company;
  */
 public class GITStudy {
     public static void main(String[] args) {
-
+        System.out.print("git study");
     }
 }
