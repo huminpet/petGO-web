@@ -6,5 +6,7 @@ public class Main {
         //aaa  bbb  ccc
         System.out.print("abcd");
         System.out.print("abcd");
+        System.out.print("abcd");
+        System.out.print("abcd");
     }
 }
