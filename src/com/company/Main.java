@@ -7,7 +7,5 @@ public class Main {
         System.out.print("abcd");
         System.out.print("abcd");
         System.out.print("abcd");
-        System.out.print("abcd");
-        System.out.print("abcd");
     }
 }
